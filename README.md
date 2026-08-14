@@ -1,1 +1,142 @@
-# enhansome-matplotlib
+# Awesome List of various useful resources around Matplotlib with stars
+
+This list is curated by [Teresa Kubacka](http://www.teresa-kubacka.com/) ([pythonviz.blog](https://www.pythonviz.blog/)). If you think a resource should be added, open an issue with your proposal!
+
+TOC:
+
+* [List of various useful resources around Matplotlib](#list-of-various-useful-resources-around-matplotlib)
+  * [Cheat sheets](#cheat-sheets)
+  * [Books](#books)
+  * [Courses and workshops](#courses-and-workshops)
+  * [Repositories with examples of complex visualizations](#repositories-with-examples-of-complex-visualizations)
+  * [Tutorials](#tutorials)
+    * [Community tutorials](#community-tutorials)
+    * [Official tutorials you may have missed](#official-tutorials-you-may-have-missed)
+  * [Resources using the plt-API, but still useful](#resources-using-the-plt-api-but-still-useful)
+  * [MPL-lore, history and other meta-level material](#mpl-lore-history-and-other-meta-level-material)
+* [MPL-compatible modules and extensions](#mpl-compatible-modules-and-extensions)
+
+***
+
+## Cheat sheets
+
+* [Official Cheat Sheets](https://github.com/matplotlib/cheatsheets) ⭐ 7,718 | 🐛 16 | 🌐 Python | 📅 2026-08-04
+* [E2ML chapter by Brandon Rohrer](https://e2eml.school/blog.html#131)
+* [How to cite Matplotlib (incl. Bibtex entry)](https://matplotlib.org/stable/users/project/citing.html)
+
+## Books
+
+* [Scientific Visualization: Python + Matplotlib by Nicolas P. Rougier](https://github.com/rougier/scientific-visualization-book) ⭐ 11,420 | 🐛 18 | 🌐 Python | 📅 2026-01-04
+* [Coding for Economists by Arthur Turrell](https://aeturrell.github.io/coding-for-economists/vis-intro.html)
+* [Python Data Science Handbook by Jake VanderPlas](https://jakevdp.github.io/PythonDataScienceHandbook/04.00-introduction-to-matplotlib.html)
+
+## Courses and workshops
+
+* Anatomy of Matplotlib - a SciPy course developed by the MPL team; a bit old but still very useful [code](https://github.com/matplotlib/AnatomyOfMatplotlib) ⭐ 1,238 | 🐛 5 | 🌐 Jupyter Notebook | 📅 2021-08-14
+* Ipywidgets and MPL interactions Scipy 2022 [code](https://github.com/jupyter-widgets/tutorial) ⭐ 406 | 🐛 23 | 🌐 Jupyter Notebook | 📅 2024-09-03 [video](https://www.youtube.com/watch?v=1vuI22MkkrY\&list=PLYx7XA2nY5Gfxu98P_HL1MnFb_BSkpxLV\&index=12)
+* Beyond the Basics: Data Visualization in Python by Stefanie Molin [code](https://github.com/stefmolin/python-data-viz-workshop) ⭐ 282 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2026-04-19
+* PythonMaps Scipy 2022 by Adam Symington [code](https://github.com/symmy596/PythonMaps-Scipy-2022) ⭐ 114 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2025-01-08 [video](https://www.youtube.com/watch?v=cjfqCHHp-AE\&list=PLYx7XA2nY5Gfxu98P_HL1MnFb_BSkpxLV\&index=5)
+* NumFocus Academy - Matplotlib course (beginner) by Nicolas P. Rougier [code](https://github.com/NFAcademy/2021_course_dev-rougier/tree/main/notebooks) ⭐ 57 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2021-08-17
+* Code, Debug, Reuse this Chart by Artem Kislovsky, AMLD 2024 [code](https://github.com/Kislovskiy/ChartCraftHub/) ⭐ 16 | 🐛 6 | 🌐 Jupyter Notebook | 📅 2024-12-16
+* Effectively using Matplotlib by Tim Hoffmann EuroSciPy 2019/2022 [code](https://github.com/timhoffm/using-matplotlib) ⭐ 11 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2023-08-15
+* Neural Network Visualization by Brandon Rohrer [code](https://github.com/brohrer/autoencoder_visualization) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2020-06-12 [video](https://end-to-end-machine-learning.teachable.com/p/neural-network-visualization)
+
+## Repositories with examples of complex visualizations
+
+* [sonofacorner](https://github.com/sonofacorner/soc-viz-of-the-week) ⭐ 141 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2023-02-13 - sport viz
+* [rnckp](https://github.com/rnckp) - [SNSF-Data-Starter](https://github.com/rnckp/opendata_snsf-startercode) ⚠️ Archived, [Thematic Mapping Switzerland](https://github.com/rnckp/opendata_thematic-mapping) ⚠️ Archived
+* [diego-gonher](https://github.com/diego-gonher/divulgacion/tree/main/visualizaciones) ⭐ 0 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2023-08-21
+* [Lisa-Ho](https://github.com/Lisa-Ho)
+* [symmy596](https://github.com/symmy596) - geoviz
+* [Kaggle: A story told through a heatmap](https://www.kaggle.com/code/tkubacka/a-story-told-through-a-heatmap)
+* [asongtoruin](https://github.com/asongtoruin)
+
+## Tutorials
+
+### Community tutorials
+
+* [Engineering for data science - Blog](https://engineeringfordatascience.com/tags/matplotlib/)
+  * [Plotting subplots in a loop](https://engineeringfordatascience.com/posts/matplotlib_subplots/)
+  * [Using plt.suptitle](https://engineeringfordatascience.com/posts/matplotlib_subtitles/)
+* DataFantic - Blog
+  * [Stylesheets](https://web.archive.org/web/20240112064712/https://www.datafantic.com/the-magic-of-matplotlib-stylesheets/)
+  * [Reproducing The Economist style](https://web.archive.org/web/20240119051045/https://www.datafantic.com/making-economist-style-plots-in-matplotlib-2/)
+* [Blog of Gianluca Rigoletti](https://grigolet.github.io/index.html#category=matplotlib):
+  * ridgeplots
+  * reproducing CERN ROOT stylesheet
+  * multiple Y axes
+* Pythonviz.blog:
+  * [Various useful snippets](https://www.pythonviz.blog/all_posts_categorized.html#category=matplotlib)
+  * [Small-multiples charts from scratch](https://www.pythonviz.blog/posts/mpl/mpl_small-multiples_ziplongest.html)
+* [Change font family](https://datascienceparichay.com/article/change-font-type-in-matplotlib-plots/)
+* How to create custom hatches: [example 1](https://stackoverflow.com/questions/17285154/how-to-fill-a-polygon-with-a-custom-hatch-in-matplotlib) [example 2](https://stackoverflow.com/questions/4745937/how-to-decrease-hatch-density-in-matplotlib?rq=1) [example 3](https://malithjayaweera.com/2020/06/matplotlib-hatch-patterns/). In future releases of Matplotlib there will be a different API to create custom hatches [see discussion](https://github.com/matplotlib/matplotlib/issues/20690) ⭐ 23,079 | 🐛 1,472 | 🌐 Python | 📅 2026-08-13
+* [Son of a corner blog](https://www.sonofacorner.com/):
+  * [Create pretty tables from scratch](https://www.sonofacorner.com/beautiful-tables/)
+  * [Coordinate systems](https://www.sonofacorner.com/figuring-figures-out/)
+  * [Rolling average xG charts from scratch](https://www.sonofacorner.com/xg-rolling-plots/)
+  * [Stacked bars with annotations and icons from scratch](https://www.sonofacorner.com/effective-bar-charts-a-matplotlib-tutorial/)
+  * [Footbal shot maps](https://www.sonofacorner.com/shot-maps-a-matplotlib-tutorial/)
+* [Practical Business Python](https://pbpython.com/):
+  * [Effectively Using Matplotlib](https://pbpython.com/effective-matplotlib.html)
+* [Adam Ruszkowski's blog](https://ruszkow.ski/graphs/)
+  * [Basic matplotlib Bar Plot Styling](https://ruszkow.ski/graphs/2022-11-01-basic-matplotlib-bar-plot-styling/)
+* ["Artist" in Matplotlib - something I wanted to know before spending tremendous hours on googling how-tos](https://dev.to/skotaro/artist-in-matplotlib---something-i-wanted-to-know-before-spending-tremendous-hours-on-googling-how-tos--31oo)
+* [plt.xxx(), or ax.xxx(), That Is The Question In Matplotlib](https://junye0798.com/post/plt-xxx-or-ax-xxx-that-is-the-question-in-matplotlib/)
+* [Christian Hill's blog](https://scipython.com/blog/) - scientific visualizations and simulations with code examples
+  * Christian Hill wrote a book ["Learning Python for Scientific Applications"](https://scipython.com/about/the-book/) and the [MPL examples from this book are available online](https://scipython.com/book2/chapter-7-matplotlib/)
+* [Islamic Geometric Patterns](https://vamshij.com/blog/2020-01-28-islamic-geometric-patterns/)
+* [Don't Use This Code](https://www.dontusethiscode.com/blog/tag/matplotlib.html)
+  * [Recreate Tufte's weather visualization](https://www.dontusethiscode.com/blog/2023-03-08_tufte-matplotlib.html)
+* [Gradient-filled patches and fill-betweens](https://stackoverflow.com/questions/29321835/is-it-possible-to-get-color-gradients-under-curve-in-matplotlib) and [method2](http://pradhanphy.blogspot.com/2014/06/filling-between-curves-with-color.html)
+* [A selection of tutorials that recreate R visualizations by Tomas Capretto and Yan Holtz on the Python-Graph-Gallery](https://python-graph-gallery.com/best-python-chart-examples/)
+
+### Official tutorials you may have missed
+
+* [How to create custom tables by Tim Bayer](https://matplotlib.org/matplotblog/posts/how-to-create-custom-tables/)
+* [Battery Charts by Rithwik Rajendran](https://matplotlib.org/matplotblog/posts/visualising-usage-using-batteries/) - create custom shapes, make them data driven
+* [Packed-bubble chart](https://matplotlib.org/devdocs/gallery/misc/packed_bubbles.html) - chart as a class; more circle packing chart than bubble chart
+* [Tips on structuring your MPL code by the MPL Project Lead Thomas A Caswell](https://github.com/NFAcademy/2021_course_dev-tacaswell/blob/main/notebooks/01_try_a_function_on.ipynb) ⭐ 0 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2021-09-19
+* [yourplotlib - Best practices for domain-specific matplotlib libraries by Colin Carroll, Hannah Aizenman, and Thomas Caswell](https://colcarroll.github.io/yourplotlib/)
+
+## Resources using the plt-API, but still useful
+
+* [Matplotlib 3.0 Cookbook by Srinivasa Rao Poladi](https://github.com/PacktPublishing/Matplotlib-3.0-Cookbook) ⭐ 142 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2023-01-30
+* [Advanced MPL with interactivity](https://github.com/jakevdp/matplotlib_pydata2013/tree/master) ⭐ 57 | 🐛 0 | 🌐 Python | 📅 2013-11-12 - 2013 tutorials by Jake Vanderplas
+* [Matplot GIF on Calmcode](https://calmcode.io/matplot-gif/introduction.html)
+* [Python Graph Gallery](https://www.python-graph-gallery.com/) - a treasure of visualizations, but unfortunately the APIs used are not consistent
+* [Learning Scientific Programming with Python](https://scipython.com/book2/chapter-7-matplotlib/) - contains many interesting examples of mathematical visualizations with accompanying numpy/scipy algorithms, however the MPL API is sometimes inconsistent
+* [Minesweeper in MPL](https://jakevdp.github.io/blog/2012/12/06/minesweeper-in-matplotlib/)
+
+## MPL-lore, history and other meta-level material
+
+* [John Hunter and Michael Droettboom explain the design choices they made](https://www.aosabook.org/en/matplotlib.html)
+* [Matplotlib Lead Developer Explains Why He Can’t Fix the Docs—But You Can](https://numfocus.org/blog/matplotlib-lead-developer-explains-why-he-cant-fix-the-docs-but-you-can)
+* [John Hunter's talk "matplotlib: Lessons from middle age"](https://www.youtube.com/watch?v=e3lTby5RI54)
+* [Thoughts on how the MPL API could be more pythonic](https://ryxcommar.com/2020/04/11/why-you-hate-matplotlib/)
+* my own NormConf Lightning Talk [How to stop crying when using Matplotlib](https://www.youtube.com/watch?v=vjQIaepijbE)
+* [John D. Hunter's IEEE paper introducing Matplotlib](https://doi.org/10.1109/MCSE.2007.55)
+* my talk on the Swiss Python Summit 2023, "Did you know Matplotlib could do that?": [video](https://www.youtube.com/watch?v=C6slSZQxYf0) and [slides](https://www.python-summit.ch/recordings/sps23_teresa_kubacka_did_you_know_matplotlib_could_do_that/sps23_teresa_kubacka_did_you_know_matplotlib_could_do_that.pdf)
+
+# MPL-compatible modules and extensions
+
+## Colors
+
+* [glasbey](https://github.com/lmcinnes/glasbey) ⭐ 239 | 🐛 5 | 🌐 Python | 📅 2026-06-01 - Algorithmically create or extend categorical colour palettes
+* [tastymap](https://github.com/ahuang11/tastymap) ⭐ 31 | 🐛 4 | 🌐 Python | 📅 2024-10-19 - Easily create, modify and register cmaps, including an interactive widget
+
+## Fun
+
+* [ridge\_map](https://github.com/ColCarroll/ridge_map) ⭐ 587 | 🐛 14 | 🌐 Python | 📅 2025-04-20 - A library for making ridge plots of... ridges. Choose a location, get an elevation map, and tinker with it to make something beautiful.
+
+## Styles
+
+* [opinionated](https://github.com/MNoichl/opinionated) ⭐ 124 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2024-04-05 - A stylesheet for newspaper-like visualization style
+* [VSCode Intellisense for .mplstyle and matplotlibrc files](https://github.com/yy0931/vscode-mplstyle) ⭐ 10 | 🐛 0 | 🌐 TypeScript | 📅 2024-05-03
+
+## Text and annotations
+
+* [flexitext](https://github.com/tomicapretto/flexitext) ⭐ 122 | 🐛 8 | 🌐 Python | 📅 2025-01-26 - create colorful text strings easily using CSS-like specification
+
+***
+
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._

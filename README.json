@@ -1,0 +1,285 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Anatomy of Matplotlib - a SciPy course developed by the MPL team; a bit old but still very useful code",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2021-08-14T00:05:27Z",
+            "owner": "matplotlib",
+            "repo": "AnatomyOfMatplotlib",
+            "stars": 1238
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ipywidgets and MPL interactions Scipy 2022 code",
+          "description": "video",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-09-03T21:37:19Z",
+            "owner": "jupyter-widgets",
+            "repo": "tutorial",
+            "stars": 406
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Beyond the Basics: Data Visualization in Python by Stefanie Molin code",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-04-19T10:01:18Z",
+            "owner": "stefmolin",
+            "repo": "python-data-viz-workshop",
+            "stars": 282
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PythonMaps Scipy 2022 by Adam Symington code",
+          "description": "video",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-01-08T21:50:32Z",
+            "owner": "symmy596",
+            "repo": "PythonMaps-Scipy-2022",
+            "stars": 114
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NumFocus Academy - Matplotlib course (beginner) by Nicolas P. Rougier code",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2021-08-17T07:15:55Z",
+            "owner": "NFAcademy",
+            "repo": "2021_course_dev-rougier",
+            "stars": 57
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Code, Debug, Reuse this Chart by Artem Kislovsky, AMLD 2024 code",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-12-16T20:58:16Z",
+            "owner": "Kislovskiy",
+            "repo": "ChartCraftHub",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Effectively using Matplotlib by Tim Hoffmann EuroSciPy 2019/2022 code",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-08-15T05:21:08Z",
+            "owner": "timhoffm",
+            "repo": "using-matplotlib",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Neural Network Visualization by Brandon Rohrer code",
+          "description": "video",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-06-12T23:12:14Z",
+            "owner": "brohrer",
+            "repo": "autoencoder_visualization",
+            "stars": 9
+          }
+        }
+      ],
+      "title": "Courses and workshops"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "sonofacorner",
+          "description": "sport viz",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-02-13T04:49:28Z",
+            "owner": "sonofacorner",
+            "repo": "soc-viz-of-the-week",
+            "stars": 141
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rnckp",
+          "description": "SNSF-Data-Starter, Thematic Mapping Switzerland",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-07-13T09:52:13Z",
+            "owner": "rnckp",
+            "repo": "opendata_snsf-startercode",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "diego-gonher",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-08-21T22:19:18Z",
+            "owner": "diego-gonher",
+            "repo": "divulgacion",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Repositories with examples of complex visualizations"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Tutorials"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Matplotlib 3.0 Cookbook by Srinivasa Rao Poladi",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-01-30T10:07:55Z",
+            "owner": "PacktPublishing",
+            "repo": "Matplotlib-3.0-Cookbook",
+            "stars": 142
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Advanced MPL with interactivity",
+          "description": "2013 tutorials by Jake Vanderplas",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2013-11-12T01:34:47Z",
+            "owner": "jakevdp",
+            "repo": "matplotlib_pydata2013",
+            "stars": 57
+          }
+        }
+      ],
+      "title": "Resources using the plt-API, but still useful"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "glasbey",
+          "description": "Algorithmically create or extend categorical colour palettes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-01T18:55:09Z",
+            "owner": "lmcinnes",
+            "repo": "glasbey",
+            "stars": 239
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tastymap",
+          "description": "Easily create, modify and register cmaps, including an interactive widget",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-10-19T00:52:00Z",
+            "owner": "ahuang11",
+            "repo": "tastymap",
+            "stars": 31
+          }
+        }
+      ],
+      "title": "Colors"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "opinionated",
+          "description": "A stylesheet for newspaper-like visualization style",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-04-05T21:15:00Z",
+            "owner": "MNoichl",
+            "repo": "opinionated",
+            "stars": 124
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VSCode Intellisense for .mplstyle and matplotlibrc files",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-05-03T02:59:54Z",
+            "owner": "yy0931",
+            "repo": "vscode-mplstyle",
+            "stars": 10
+          }
+        }
+      ],
+      "title": "Styles"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-14T05:39:21.402Z",
+    "original_repository": "paniterka/awesome-matplotlib",
+    "original_repository_sha": "a1642fb897c8746a345c43782e7c902dbbb7d041",
+    "enhanced_repository": "enhansome/enhansome-matplotlib",
+    "enhanced_repository_description": null,
+    "title": "Awesome List of various useful resources around Matplotlib with stars"
+  }
+}
