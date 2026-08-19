@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 10977639,
             "language": "Jupyter Notebook",
             "last_commit": "2021-08-14T00:05:27Z",
             "owner": "matplotlib",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 101101870,
             "language": "Jupyter Notebook",
             "last_commit": "2024-09-03T21:37:19Z",
             "owner": "jupyter-widgets",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 424274019,
             "language": "Jupyter Notebook",
             "last_commit": "2026-04-19T10:01:18Z",
             "owner": "stefmolin",
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 495048730,
             "language": "Jupyter Notebook",
             "last_commit": "2025-01-08T21:50:32Z",
             "owner": "symmy596",
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 377376174,
             "language": "Jupyter Notebook",
             "last_commit": "2021-08-17T07:15:55Z",
             "owner": "NFAcademy",
@@ -80,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 748847693,
             "language": "Jupyter Notebook",
             "last_commit": "2024-12-16T20:58:16Z",
             "owner": "Kislovskiy",
@@ -94,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 205985945,
             "language": "Jupyter Notebook",
             "last_commit": "2023-08-15T05:21:08Z",
             "owner": "timhoffm",
@@ -108,6 +115,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 186306398,
             "language": "Python",
             "last_commit": "2020-06-12T23:12:14Z",
             "owner": "brohrer",
@@ -119,7 +127,7 @@
       "title": "Courses and workshops"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -128,6 +136,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 527400059,
             "language": "Jupyter Notebook",
             "last_commit": "2023-02-13T04:49:28Z",
             "owner": "sonofacorner",
@@ -142,6 +151,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 587800657,
             "language": "Jupyter Notebook",
             "last_commit": "2024-07-13T09:52:13Z",
             "owner": "rnckp",
@@ -156,6 +166,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 390916119,
             "language": "Jupyter Notebook",
             "last_commit": "2023-08-21T22:19:18Z",
             "owner": "diego-gonher",
@@ -167,12 +178,7 @@
       "title": "Repositories with examples of complex visualizations"
     },
     {
-      "description": "",
-      "items": [],
-      "title": "Tutorials"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -181,6 +187,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 153745418,
             "language": "Jupyter Notebook",
             "last_commit": "2023-01-30T10:07:55Z",
             "owner": "PacktPublishing",
@@ -195,6 +202,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 8787602,
             "language": "Python",
             "last_commit": "2013-11-12T01:34:47Z",
             "owner": "jakevdp",
@@ -206,77 +214,90 @@
       "title": "Resources using the plt-API, but still useful"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "glasbey",
-          "description": "Algorithmically create or extend categorical colour palettes",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-06-01T18:55:09Z",
-            "owner": "lmcinnes",
-            "repo": "glasbey",
-            "stars": 239
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "tastymap",
-          "description": "Easily create, modify and register cmaps, including an interactive widget",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-10-19T00:52:00Z",
-            "owner": "ahuang11",
-            "repo": "tastymap",
-            "stars": 31
-          }
-        }
-      ],
-      "title": "Colors"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "opinionated",
-          "description": "A stylesheet for newspaper-like visualization style",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2024-04-05T21:15:00Z",
-            "owner": "MNoichl",
-            "repo": "opinionated",
-            "stars": 124
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "VSCode Intellisense for .mplstyle and matplotlibrc files",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "glasbey",
+              "description": "Algorithmically create or extend categorical colour palettes",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 561966507,
+                "language": "Python",
+                "last_commit": "2026-06-01T18:55:09Z",
+                "owner": "lmcinnes",
+                "repo": "glasbey",
+                "stars": 239
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "tastymap",
+              "description": "Easily create, modify and register cmaps, including an interactive widget",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 696085364,
+                "language": "Python",
+                "last_commit": "2024-10-19T00:52:00Z",
+                "owner": "ahuang11",
+                "repo": "tastymap",
+                "stars": 31
+              }
+            }
+          ],
           "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2024-05-03T02:59:54Z",
-            "owner": "yy0931",
-            "repo": "vscode-mplstyle",
-            "stars": 10
-          }
+          "node_type": "group",
+          "title": "Colors"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "opinionated",
+              "description": "A stylesheet for newspaper-like visualization style",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 609649799,
+                "language": "Jupyter Notebook",
+                "last_commit": "2024-04-05T21:15:00Z",
+                "owner": "MNoichl",
+                "repo": "opinionated",
+                "stars": 124
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "VSCode Intellisense for .mplstyle and matplotlibrc files",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 422923551,
+                "language": "TypeScript",
+                "last_commit": "2024-05-03T02:59:54Z",
+                "owner": "yy0931",
+                "repo": "vscode-mplstyle",
+                "stars": 10
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Styles"
         }
       ],
-      "title": "Styles"
+      "title": "MPL-compatible modules and extensions"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T04:39:22.118Z",
+    "last_updated": "2026-08-19T12:41:28.057Z",
     "original_repository": "paniterka/awesome-matplotlib",
+    "original_repository_id": 558065923,
     "original_repository_sha": "a1642fb897c8746a345c43782e7c902dbbb7d041",
     "enhanced_repository": "enhansome/enhansome-matplotlib",
     "enhanced_repository_description": null,
