@@ -245,7 +245,7 @@
                 "last_commit": "2024-10-19T00:52:00Z",
                 "owner": "ahuang11",
                 "repo": "tastymap",
-                "stars": 31
+                "stars": 32
               }
             }
           ],
@@ -295,7 +295,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T04:40:50.648Z",
+    "last_updated": "2026-08-22T04:34:42.868Z",
     "original_repository": "paniterka/awesome-matplotlib",
     "original_repository_id": 558065923,
     "original_repository_sha": "a1642fb897c8746a345c43782e7c902dbbb7d041",
