@@ -20,13 +20,13 @@ TOC:
 
 ## Cheat sheets
 
-* [Official Cheat Sheets](https://github.com/matplotlib/cheatsheets) ⭐ 7,724 | 🐛 16 | 🌐 Python | 📅 2026-08-04
+* [Official Cheat Sheets](https://github.com/matplotlib/cheatsheets) ⭐ 7,723 | 🐛 16 | 🌐 Python | 📅 2026-08-04
 * [E2ML chapter by Brandon Rohrer](https://e2eml.school/blog.html#131)
 * [How to cite Matplotlib (incl. Bibtex entry)](https://matplotlib.org/stable/users/project/citing.html)
 
 ## Books
 
-* [Scientific Visualization: Python + Matplotlib by Nicolas P. Rougier](https://github.com/rougier/scientific-visualization-book) ⭐ 11,436 | 🐛 18 | 🌐 Python | 📅 2026-01-04
+* [Scientific Visualization: Python + Matplotlib by Nicolas P. Rougier](https://github.com/rougier/scientific-visualization-book) ⭐ 11,439 | 🐛 18 | 🌐 Python | 📅 2026-01-04
 * [Coding for Economists by Arthur Turrell](https://aeturrell.github.io/coding-for-economists/vis-intro.html)
 * [Python Data Science Handbook by Jake VanderPlas](https://jakevdp.github.io/PythonDataScienceHandbook/04.00-introduction-to-matplotlib.html)
 
@@ -69,7 +69,7 @@ TOC:
   * [Various useful snippets](https://www.pythonviz.blog/all_posts_categorized.html#category=matplotlib)
   * [Small-multiples charts from scratch](https://www.pythonviz.blog/posts/mpl/mpl_small-multiples_ziplongest.html)
 * [Change font family](https://datascienceparichay.com/article/change-font-type-in-matplotlib-plots/)
-* How to create custom hatches: [example 1](https://stackoverflow.com/questions/17285154/how-to-fill-a-polygon-with-a-custom-hatch-in-matplotlib) [example 2](https://stackoverflow.com/questions/4745937/how-to-decrease-hatch-density-in-matplotlib?rq=1) [example 3](https://malithjayaweera.com/2020/06/matplotlib-hatch-patterns/). In future releases of Matplotlib there will be a different API to create custom hatches [see discussion](https://github.com/matplotlib/matplotlib/issues/20690) ⭐ 23,108 | 🐛 1,473 | 🌐 Python | 📅 2026-08-22
+* How to create custom hatches: [example 1](https://stackoverflow.com/questions/17285154/how-to-fill-a-polygon-with-a-custom-hatch-in-matplotlib) [example 2](https://stackoverflow.com/questions/4745937/how-to-decrease-hatch-density-in-matplotlib?rq=1) [example 3](https://malithjayaweera.com/2020/06/matplotlib-hatch-patterns/). In future releases of Matplotlib there will be a different API to create custom hatches [see discussion](https://github.com/matplotlib/matplotlib/issues/20690) ⭐ 23,105 | 🐛 1,471 | 🌐 Python | 📅 2026-08-23
 * [Son of a corner blog](https://www.sonofacorner.com/):
   * [Create pretty tables from scratch](https://www.sonofacorner.com/beautiful-tables/)
   * [Coordinate systems](https://www.sonofacorner.com/figuring-figures-out/)
@@ -139,4 +139,4 @@ TOC:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
