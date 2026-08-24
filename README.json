@@ -5,6 +5,48 @@
       "items": [
         {
           "node_type": "item",
+          "title": "Official Cheat Sheets",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 261515636,
+            "language": "Python",
+            "last_commit": "2026-08-04T21:36:05Z",
+            "owner": "matplotlib",
+            "repo": "cheatsheets",
+            "stars": 7723
+          }
+        }
+      ],
+      "title": "Cheat sheets"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Scientific Visualization: Python + Matplotlib by Nicolas P. Rougier",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 202693400,
+            "language": "Python",
+            "last_commit": "2026-01-04T13:29:20Z",
+            "owner": "rougier",
+            "repo": "scientific-visualization-book",
+            "stars": 11439
+          }
+        }
+      ],
+      "title": "Books"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
           "title": "Anatomy of Matplotlib - a SciPy course developed by the MPL team; a bit old but still very useful code",
           "description": null,
           "children": [],
@@ -181,6 +223,56 @@
       "description": null,
       "items": [
         {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "How to create custom hatches: example 1",
+              "description": "example 2 example 3. In future releases of Matplotlib there will be a different API to create custom hatches see discussion",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1385122,
+                "language": "Python",
+                "last_commit": "2026-08-23T09:43:53Z",
+                "owner": "matplotlib",
+                "repo": "matplotlib",
+                "stars": 23104
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Community tutorials"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Tips on structuring your MPL code by the MPL Project Lead Thomas A Caswell",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 391696216,
+                "language": "Jupyter Notebook",
+                "last_commit": "2021-09-19T01:43:52Z",
+                "owner": "NFAcademy",
+                "repo": "2021_course_dev-tacaswell",
+                "stars": 0
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Official tutorials you may have missed"
+        }
+      ],
+      "title": "Tutorials"
+    },
+    {
+      "description": null,
+      "items": [
+        {
           "node_type": "item",
           "title": "Matplotlib 3.0 Cookbook by Srinivasa Rao Poladi",
           "description": null,
@@ -257,6 +349,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "ridge_map",
+              "description": "A library for making ridge plots of... ridges. Choose a location, get an elevation map, and tinker with it to make something beautiful.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 184413189,
+                "language": "Python",
+                "last_commit": "2025-04-20T13:07:02Z",
+                "owner": "ColCarroll",
+                "repo": "ridge_map",
+                "stars": 588
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Fun"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "opinionated",
               "description": "A stylesheet for newspaper-like visualization style",
               "children": [],
@@ -289,13 +403,35 @@
           "description": null,
           "node_type": "group",
           "title": "Styles"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "flexitext",
+              "description": "create colorful text strings easily using CSS-like specification",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 407341088,
+                "language": "Python",
+                "last_commit": "2025-01-26T14:35:11Z",
+                "owner": "tomicapretto",
+                "repo": "flexitext",
+                "stars": 122
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Text and annotations"
         }
       ],
       "title": "MPL-compatible modules and extensions"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T04:48:13.828Z",
+    "last_updated": "2026-08-24T14:43:24.506Z",
     "original_repository": "paniterka/awesome-matplotlib",
     "original_repository_id": 558065923,
     "original_repository_sha": "a1642fb897c8746a345c43782e7c902dbbb7d041",
