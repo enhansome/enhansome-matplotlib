@@ -236,7 +236,7 @@
                 "last_commit": "2026-08-25T04:07:05Z",
                 "owner": "matplotlib",
                 "repo": "matplotlib",
-                "stars": 23104
+                "stars": 23105
               }
             }
           ],
@@ -431,7 +431,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T04:41:05.613Z",
+    "last_updated": "2026-08-25T06:36:43.485Z",
     "original_repository": "paniterka/awesome-matplotlib",
     "original_repository_id": 558065923,
     "original_repository_sha": "a1642fb897c8746a345c43782e7c902dbbb7d041",
