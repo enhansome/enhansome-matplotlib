@@ -15,7 +15,7 @@
             "last_commit": "2026-08-04T21:36:05Z",
             "owner": "matplotlib",
             "repo": "cheatsheets",
-            "stars": 7724
+            "stars": 7725
           }
         }
       ],
@@ -36,7 +36,7 @@
             "last_commit": "2026-01-04T13:29:20Z",
             "owner": "rougier",
             "repo": "scientific-visualization-book",
-            "stars": 11440
+            "stars": 11442
           }
         }
       ],
@@ -233,7 +233,7 @@
                 "archived": false,
                 "id": 1385122,
                 "language": "Python",
-                "last_commit": "2026-08-25T04:07:05Z",
+                "last_commit": "2026-08-25T14:43:10Z",
                 "owner": "matplotlib",
                 "repo": "matplotlib",
                 "stars": 23105
@@ -322,7 +322,7 @@
                 "last_commit": "2026-06-01T18:55:09Z",
                 "owner": "lmcinnes",
                 "repo": "glasbey",
-                "stars": 239
+                "stars": 240
               }
             },
             {
@@ -431,7 +431,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:36:43.485Z",
+    "last_updated": "2026-08-26T04:41:54.825Z",
     "original_repository": "paniterka/awesome-matplotlib",
     "original_repository_id": 558065923,
     "original_repository_sha": "a1642fb897c8746a345c43782e7c902dbbb7d041",

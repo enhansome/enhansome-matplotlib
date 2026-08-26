@@ -20,13 +20,13 @@ TOC:
 
 ## Cheat sheets
 
-* [Official Cheat Sheets](https://github.com/matplotlib/cheatsheets) ⭐ 7,724 | 🐛 16 | 🌐 Python | 📅 2026-08-04
+* [Official Cheat Sheets](https://github.com/matplotlib/cheatsheets) ⭐ 7,725 | 🐛 16 | 🌐 Python | 📅 2026-08-04
 * [E2ML chapter by Brandon Rohrer](https://e2eml.school/blog.html#131)
 * [How to cite Matplotlib (incl. Bibtex entry)](https://matplotlib.org/stable/users/project/citing.html)
 
 ## Books
 
-* [Scientific Visualization: Python + Matplotlib by Nicolas P. Rougier](https://github.com/rougier/scientific-visualization-book) ⭐ 11,440 | 🐛 18 | 🌐 Python | 📅 2026-01-04
+* [Scientific Visualization: Python + Matplotlib by Nicolas P. Rougier](https://github.com/rougier/scientific-visualization-book) ⭐ 11,442 | 🐛 18 | 🌐 Python | 📅 2026-01-04
 * [Coding for Economists by Arthur Turrell](https://aeturrell.github.io/coding-for-economists/vis-intro.html)
 * [Python Data Science Handbook by Jake VanderPlas](https://jakevdp.github.io/PythonDataScienceHandbook/04.00-introduction-to-matplotlib.html)
 
@@ -121,7 +121,7 @@ TOC:
 
 ## Colors
 
-* [glasbey](https://github.com/lmcinnes/glasbey) ⭐ 239 | 🐛 5 | 🌐 Python | 📅 2026-06-01 - Algorithmically create or extend categorical colour palettes
+* [glasbey](https://github.com/lmcinnes/glasbey) ⭐ 240 | 🐛 5 | 🌐 Python | 📅 2026-06-01 - Algorithmically create or extend categorical colour palettes
 * [tastymap](https://github.com/ahuang11/tastymap) ⭐ 32 | 🐛 4 | 🌐 Python | 📅 2024-10-19 - Easily create, modify and register cmaps, including an interactive widget
 
 ## Fun
@@ -139,4 +139,4 @@ TOC:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
