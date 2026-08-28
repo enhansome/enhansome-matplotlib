@@ -16,7 +16,8 @@
             "owner": "matplotlib",
             "repo": "cheatsheets",
             "stars": 7726
-          }
+          },
+          "first_seen": "2026-08-28T16:24:19.853Z"
         }
       ],
       "title": "Cheat sheets"
@@ -36,8 +37,9 @@
             "last_commit": "2026-01-04T13:29:20Z",
             "owner": "rougier",
             "repo": "scientific-visualization-book",
-            "stars": 11447
-          }
+            "stars": 11452
+          },
+          "first_seen": "2026-08-28T16:24:19.853Z"
         }
       ],
       "title": "Books"
@@ -58,7 +60,8 @@
             "owner": "matplotlib",
             "repo": "AnatomyOfMatplotlib",
             "stars": 1238
-          }
+          },
+          "first_seen": "2026-08-28T16:24:19.853Z"
         },
         {
           "node_type": "item",
@@ -73,7 +76,8 @@
             "owner": "jupyter-widgets",
             "repo": "tutorial",
             "stars": 406
-          }
+          },
+          "first_seen": "2026-08-28T16:24:19.853Z"
         },
         {
           "node_type": "item",
@@ -88,7 +92,8 @@
             "owner": "stefmolin",
             "repo": "python-data-viz-workshop",
             "stars": 282
-          }
+          },
+          "first_seen": "2026-08-28T16:24:19.853Z"
         },
         {
           "node_type": "item",
@@ -103,7 +108,8 @@
             "owner": "symmy596",
             "repo": "PythonMaps-Scipy-2022",
             "stars": 114
-          }
+          },
+          "first_seen": "2026-08-28T16:24:19.853Z"
         },
         {
           "node_type": "item",
@@ -118,7 +124,8 @@
             "owner": "NFAcademy",
             "repo": "2021_course_dev-rougier",
             "stars": 57
-          }
+          },
+          "first_seen": "2026-08-28T16:24:19.853Z"
         },
         {
           "node_type": "item",
@@ -133,7 +140,8 @@
             "owner": "Kislovskiy",
             "repo": "ChartCraftHub",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-28T16:24:19.853Z"
         },
         {
           "node_type": "item",
@@ -148,7 +156,8 @@
             "owner": "timhoffm",
             "repo": "using-matplotlib",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T16:24:19.853Z"
         },
         {
           "node_type": "item",
@@ -163,7 +172,8 @@
             "owner": "brohrer",
             "repo": "autoencoder_visualization",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T16:24:19.853Z"
         }
       ],
       "title": "Courses and workshops"
@@ -184,7 +194,8 @@
             "owner": "sonofacorner",
             "repo": "soc-viz-of-the-week",
             "stars": 141
-          }
+          },
+          "first_seen": "2026-08-28T16:24:19.853Z"
         },
         {
           "node_type": "item",
@@ -199,7 +210,8 @@
             "owner": "rnckp",
             "repo": "opendata_snsf-startercode",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T16:24:19.853Z"
         },
         {
           "node_type": "item",
@@ -214,7 +226,8 @@
             "owner": "diego-gonher",
             "repo": "divulgacion",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T16:24:19.853Z"
         }
       ],
       "title": "Repositories with examples of complex visualizations"
@@ -233,11 +246,12 @@
                 "archived": false,
                 "id": 1385122,
                 "language": "Python",
-                "last_commit": "2026-08-27T05:41:34Z",
+                "last_commit": "2026-08-28T00:05:21Z",
                 "owner": "matplotlib",
                 "repo": "matplotlib",
-                "stars": 23114
-              }
+                "stars": 23119
+              },
+              "first_seen": "2026-08-28T16:24:19.853Z"
             }
           ],
           "description": null,
@@ -259,7 +273,8 @@
                 "owner": "NFAcademy",
                 "repo": "2021_course_dev-tacaswell",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T16:24:19.853Z"
             }
           ],
           "description": null,
@@ -285,7 +300,8 @@
             "owner": "PacktPublishing",
             "repo": "Matplotlib-3.0-Cookbook",
             "stars": 142
-          }
+          },
+          "first_seen": "2026-08-28T16:24:19.853Z"
         },
         {
           "node_type": "item",
@@ -300,7 +316,8 @@
             "owner": "jakevdp",
             "repo": "matplotlib_pydata2013",
             "stars": 57
-          }
+          },
+          "first_seen": "2026-08-28T16:24:19.853Z"
         }
       ],
       "title": "Resources using the plt-API, but still useful"
@@ -323,7 +340,8 @@
                 "owner": "lmcinnes",
                 "repo": "glasbey",
                 "stars": 240
-              }
+              },
+              "first_seen": "2026-08-28T16:24:19.853Z"
             },
             {
               "node_type": "item",
@@ -338,7 +356,8 @@
                 "owner": "ahuang11",
                 "repo": "tastymap",
                 "stars": 32
-              }
+              },
+              "first_seen": "2026-08-28T16:24:19.853Z"
             }
           ],
           "description": null,
@@ -360,7 +379,8 @@
                 "owner": "ColCarroll",
                 "repo": "ridge_map",
                 "stars": 588
-              }
+              },
+              "first_seen": "2026-08-28T16:24:19.853Z"
             }
           ],
           "description": null,
@@ -382,7 +402,8 @@
                 "owner": "MNoichl",
                 "repo": "opinionated",
                 "stars": 124
-              }
+              },
+              "first_seen": "2026-08-28T16:24:19.853Z"
             },
             {
               "node_type": "item",
@@ -397,7 +418,8 @@
                 "owner": "yy0931",
                 "repo": "vscode-mplstyle",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T16:24:19.853Z"
             }
           ],
           "description": null,
@@ -419,7 +441,8 @@
                 "owner": "tomicapretto",
                 "repo": "flexitext",
                 "stars": 122
-              }
+              },
+              "first_seen": "2026-08-28T16:24:19.853Z"
             }
           ],
           "description": null,
@@ -431,7 +454,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T15:02:27.509Z",
+    "last_updated": "2026-08-28T16:24:19.853Z",
     "original_repository_info": {
       "archived": false,
       "id": 558065923,
