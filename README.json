@@ -363,8 +363,8 @@
                 "id": 1385122,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-08-28T19:16:57Z",
-                "open_issues": 1467,
+                "last_commit": "2026-08-29T05:44:31Z",
+                "open_issues": 1466,
                 "owner": "matplotlib",
                 "repo": "matplotlib",
                 "stars": 23121,
@@ -641,7 +641,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T05:01:00.887Z",
+    "last_updated": "2026-08-29T10:54:02.240Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of various Matplotlib resources ",
