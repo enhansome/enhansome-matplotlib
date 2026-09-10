@@ -19,7 +19,7 @@
             "open_issues": 16,
             "owner": "matplotlib",
             "repo": "cheatsheets",
-            "stars": 7729,
+            "stars": 7730,
             "topics": [
               "cheatsheet",
               "matplotlib",
@@ -50,7 +50,7 @@
             "open_issues": 18,
             "owner": "rougier",
             "repo": "scientific-visualization-book",
-            "stars": 11509,
+            "stars": 11513,
             "topics": [
               "book",
               "dataviz",
@@ -363,11 +363,11 @@
                 "id": 1385122,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-09-09T05:27:26Z",
-                "open_issues": 1472,
+                "last_commit": "2026-09-10T06:58:32Z",
+                "open_issues": 1474,
                 "owner": "matplotlib",
                 "repo": "matplotlib",
-                "stars": 23208,
+                "stars": 23205,
                 "topics": [
                   "data-science",
                   "data-visualization",
@@ -545,7 +545,7 @@
                 "open_issues": 14,
                 "owner": "ColCarroll",
                 "repo": "ridge_map",
-                "stars": 589,
+                "stars": 590,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:24:19.853Z"
@@ -641,7 +641,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T08:47:17.545Z",
+    "last_updated": "2026-09-10T08:45:01.339Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of various Matplotlib resources ",
@@ -653,7 +653,7 @@
       "open_issues": 0,
       "owner": "paniterka",
       "repo": "awesome-matplotlib",
-      "stars": 72,
+      "stars": 73,
       "topics": [
         "awesome-list",
         "matplotlib"
