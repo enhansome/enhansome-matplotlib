@@ -26,7 +26,7 @@ TOC:
 
 ## Books
 
-* [Scientific Visualization: Python + Matplotlib by Nicolas P. Rougier](https://github.com/rougier/scientific-visualization-book) ⭐ 11,544 | 🐛 18 | 🌐 Python | 📅 2026-01-04
+* [Scientific Visualization: Python + Matplotlib by Nicolas P. Rougier](https://github.com/rougier/scientific-visualization-book) ⭐ 11,549 | 🐛 18 | 🌐 Python | 📅 2026-01-04
 * [Coding for Economists by Arthur Turrell](https://aeturrell.github.io/coding-for-economists/vis-intro.html)
 * [Python Data Science Handbook by Jake VanderPlas](https://jakevdp.github.io/PythonDataScienceHandbook/04.00-introduction-to-matplotlib.html)
 
@@ -34,7 +34,7 @@ TOC:
 
 * Anatomy of Matplotlib - a SciPy course developed by the MPL team; a bit old but still very useful [code](https://github.com/matplotlib/AnatomyOfMatplotlib) ⭐ 1,239 | 🐛 5 | 🌐 Jupyter Notebook | 📅 2021-08-14
 * Ipywidgets and MPL interactions Scipy 2022 [code](https://github.com/jupyter-widgets/tutorial) ⭐ 406 | 🐛 23 | 🌐 Jupyter Notebook | 📅 2024-09-03 [video](https://www.youtube.com/watch?v=1vuI22MkkrY\&list=PLYx7XA2nY5Gfxu98P_HL1MnFb_BSkpxLV\&index=12)
-* Beyond the Basics: Data Visualization in Python by Stefanie Molin [code](https://github.com/stefmolin/python-data-viz-workshop) ⭐ 282 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2026-04-19
+* Beyond the Basics: Data Visualization in Python by Stefanie Molin [code](https://github.com/stefmolin/python-data-viz-workshop) ⭐ 283 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2026-04-19
 * PythonMaps Scipy 2022 by Adam Symington [code](https://github.com/symmy596/PythonMaps-Scipy-2022) ⭐ 114 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2025-01-08 [video](https://www.youtube.com/watch?v=cjfqCHHp-AE\&list=PLYx7XA2nY5Gfxu98P_HL1MnFb_BSkpxLV\&index=5)
 * NumFocus Academy - Matplotlib course (beginner) by Nicolas P. Rougier [code](https://github.com/NFAcademy/2021_course_dev-rougier/tree/main/notebooks) ⭐ 57 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2021-08-17
 * Code, Debug, Reuse this Chart by Artem Kislovsky, AMLD 2024 [code](https://github.com/Kislovskiy/ChartCraftHub/) ⭐ 16 | 🐛 6 | 🌐 Jupyter Notebook | 📅 2024-12-16
@@ -55,7 +55,7 @@ TOC:
 
 ### Community tutorials
 
-* How to create custom hatches: [example 1](https://stackoverflow.com/questions/17285154/how-to-fill-a-polygon-with-a-custom-hatch-in-matplotlib) [example 2](https://stackoverflow.com/questions/4745937/how-to-decrease-hatch-density-in-matplotlib?rq=1) [example 3](https://malithjayaweera.com/2020/06/matplotlib-hatch-patterns/). In future releases of Matplotlib there will be a different API to create custom hatches [see discussion](https://github.com/matplotlib/matplotlib/issues/20690) ⭐ 23,237 | 🐛 1,490 | 🌐 Python | 📅 2026-09-19
+* How to create custom hatches: [example 1](https://stackoverflow.com/questions/17285154/how-to-fill-a-polygon-with-a-custom-hatch-in-matplotlib) [example 2](https://stackoverflow.com/questions/4745937/how-to-decrease-hatch-density-in-matplotlib?rq=1) [example 3](https://malithjayaweera.com/2020/06/matplotlib-hatch-patterns/). In future releases of Matplotlib there will be a different API to create custom hatches [see discussion](https://github.com/matplotlib/matplotlib/issues/20690) ⭐ 23,238 | 🐛 1,492 | 🌐 Python | 📅 2026-09-19
 * [Engineering for data science - Blog](https://engineeringfordatascience.com/tags/matplotlib/)
   * [Plotting subplots in a loop](https://engineeringfordatascience.com/posts/matplotlib_subplots/)
   * [Using plt.suptitle](https://engineeringfordatascience.com/posts/matplotlib_subtitles/)
@@ -139,4 +139,4 @@ TOC:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._
