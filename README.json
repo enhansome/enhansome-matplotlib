@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "Official Cheat Sheets",
-          "description": null,
+          "description": "matplotlib/cheatsheets",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -37,7 +37,7 @@
         {
           "node_type": "item",
           "title": "Scientific Visualization: Python + Matplotlib by Nicolas P. Rougier",
-          "description": null,
+          "description": "rougier/scientific-visualization-book",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -50,7 +50,7 @@
             "open_issues": 18,
             "owner": "rougier",
             "repo": "scientific-visualization-book",
-            "stars": 11587,
+            "stars": 11590,
             "topics": [
               "book",
               "dataviz",
@@ -73,7 +73,7 @@
         {
           "node_type": "item",
           "title": "Anatomy of Matplotlib - a SciPy course developed by the MPL team; a bit old but still very useful code",
-          "description": null,
+          "description": "matplotlib/AnatomyOfMatplotlib",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -115,7 +115,7 @@
         {
           "node_type": "item",
           "title": "Beyond the Basics: Data Visualization in Python by Stefanie Molin code",
-          "description": null,
+          "description": "stefmolin/python-data-viz-workshop",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -171,7 +171,7 @@
         {
           "node_type": "item",
           "title": "NumFocus Academy - Matplotlib course (beginner) by Nicolas P. Rougier code",
-          "description": null,
+          "description": "NFAcademy/2021_course_dev-rougier",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -200,7 +200,7 @@
         {
           "node_type": "item",
           "title": "Code, Debug, Reuse this Chart by Artem Kislovsky, AMLD 2024 code",
-          "description": null,
+          "description": "Kislovskiy/ChartCraftHub",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -221,7 +221,7 @@
         {
           "node_type": "item",
           "title": "Effectively using Matplotlib by Tim Hoffmann EuroSciPy 2019/2022 code",
-          "description": null,
+          "description": "timhoffm/using-matplotlib",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -325,7 +325,7 @@
         {
           "node_type": "item",
           "title": "diego-gonher",
-          "description": null,
+          "description": "diego-gonher/divulgacion",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -363,11 +363,11 @@
                 "id": 1385122,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-10-01T20:14:05Z",
-                "open_issues": 1495,
+                "last_commit": "2026-10-03T02:47:06Z",
+                "open_issues": 1496,
                 "owner": "matplotlib",
                 "repo": "matplotlib",
-                "stars": 23314,
+                "stars": 23317,
                 "topics": [
                   "data-science",
                   "data-visualization",
@@ -392,7 +392,7 @@
             {
               "node_type": "item",
               "title": "Tips on structuring your MPL code by the MPL Project Lead Thomas A Caswell",
-              "description": null,
+              "description": "NFAcademy/2021_course_dev-tacaswell",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -424,7 +424,7 @@
         {
           "node_type": "item",
           "title": "Matplotlib 3.0 Cookbook by Srinivasa Rao Poladi",
-          "description": null,
+          "description": "PacktPublishing/Matplotlib-3.0-Cookbook",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -581,7 +581,7 @@
             {
               "node_type": "item",
               "title": "VSCode Intellisense for .mplstyle and matplotlibrc files",
-              "description": null,
+              "description": "yy0931/vscode-mplstyle",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -641,7 +641,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T10:21:53.852Z",
+    "last_updated": "2026-10-03T04:57:11.190Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of various Matplotlib resources ",
