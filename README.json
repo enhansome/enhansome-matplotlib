@@ -364,10 +364,10 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2026-10-03T02:47:06Z",
-                "open_issues": 1496,
+                "open_issues": 1497,
                 "owner": "matplotlib",
                 "repo": "matplotlib",
-                "stars": 23317,
+                "stars": 23319,
                 "topics": [
                   "data-science",
                   "data-visualization",
@@ -641,7 +641,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:57:11.190Z",
+    "last_updated": "2026-10-03T09:43:21.651Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of various Matplotlib resources ",
