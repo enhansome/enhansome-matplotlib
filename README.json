@@ -50,7 +50,7 @@
             "open_issues": 18,
             "owner": "rougier",
             "repo": "scientific-visualization-book",
-            "stars": 11593,
+            "stars": 11596,
             "topics": [
               "book",
               "dataviz",
@@ -363,11 +363,11 @@
                 "id": 1385122,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-10-05T06:22:27Z",
-                "open_issues": 1498,
+                "last_commit": "2026-10-06T10:52:09Z",
+                "open_issues": 1493,
                 "owner": "matplotlib",
                 "repo": "matplotlib",
-                "stars": 23322,
+                "stars": 23328,
                 "topics": [
                   "data-science",
                   "data-visualization",
@@ -641,7 +641,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T11:15:21.133Z",
+    "last_updated": "2026-10-06T11:00:39.109Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of various Matplotlib resources ",
