@@ -26,7 +26,7 @@ TOC:
 
 ## Books
 
-* [Scientific Visualization: Python + Matplotlib by Nicolas P. Rougier](https://github.com/rougier/scientific-visualization-book) ⭐ 11,596 | 🐛 18 | 🌐 Python | 📅 2026-01-04
+* [Scientific Visualization: Python + Matplotlib by Nicolas P. Rougier](https://github.com/rougier/scientific-visualization-book) ⭐ 11,597 | 🐛 18 | 🌐 Python | 📅 2026-01-04
 * [Coding for Economists by Arthur Turrell](https://aeturrell.github.io/coding-for-economists/vis-intro.html)
 * [Python Data Science Handbook by Jake VanderPlas](https://jakevdp.github.io/PythonDataScienceHandbook/04.00-introduction-to-matplotlib.html)
 
