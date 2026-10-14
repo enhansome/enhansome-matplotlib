@@ -20,7 +20,7 @@ TOC:
 
 ## Cheat sheets
 
-* [Official Cheat Sheets](https://github.com/matplotlib/cheatsheets) ⭐ 7,743 | 🐛 16 | 🌐 Python | 📅 2026-08-04
+* [Official Cheat Sheets](https://github.com/matplotlib/cheatsheets) ⭐ 7,744 | 🐛 16 | 🌐 Python | 📅 2026-08-04
 * [E2ML chapter by Brandon Rohrer](https://e2eml.school/blog.html#131)
 * [How to cite Matplotlib (incl. Bibtex entry)](https://matplotlib.org/stable/users/project/citing.html)
 
@@ -55,7 +55,7 @@ TOC:
 
 ### Community tutorials
 
-* How to create custom hatches: [example 1](https://stackoverflow.com/questions/17285154/how-to-fill-a-polygon-with-a-custom-hatch-in-matplotlib) [example 2](https://stackoverflow.com/questions/4745937/how-to-decrease-hatch-density-in-matplotlib?rq=1) [example 3](https://malithjayaweera.com/2020/06/matplotlib-hatch-patterns/). In future releases of Matplotlib there will be a different API to create custom hatches [see discussion](https://github.com/matplotlib/matplotlib/issues/20690) ⭐ 23,361 | 🐛 1,500 | 🌐 Python | 📅 2026-10-13
+* How to create custom hatches: [example 1](https://stackoverflow.com/questions/17285154/how-to-fill-a-polygon-with-a-custom-hatch-in-matplotlib) [example 2](https://stackoverflow.com/questions/4745937/how-to-decrease-hatch-density-in-matplotlib?rq=1) [example 3](https://malithjayaweera.com/2020/06/matplotlib-hatch-patterns/). In future releases of Matplotlib there will be a different API to create custom hatches [see discussion](https://github.com/matplotlib/matplotlib/issues/20690) ⭐ 23,366 | 🐛 1,495 | 🌐 Python | 📅 2026-10-14
 * [Engineering for data science - Blog](https://engineeringfordatascience.com/tags/matplotlib/)
   * [Plotting subplots in a loop](https://engineeringfordatascience.com/posts/matplotlib_subplots/)
   * [Using plt.suptitle](https://engineeringfordatascience.com/posts/matplotlib_subtitles/)
@@ -139,4 +139,4 @@ TOC:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-14._
