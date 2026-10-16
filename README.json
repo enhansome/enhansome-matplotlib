@@ -19,7 +19,7 @@
             "open_issues": 16,
             "owner": "matplotlib",
             "repo": "cheatsheets",
-            "stars": 7744,
+            "stars": 7745,
             "topics": [
               "cheatsheet",
               "matplotlib",
@@ -50,7 +50,7 @@
             "open_issues": 18,
             "owner": "rougier",
             "repo": "scientific-visualization-book",
-            "stars": 11623,
+            "stars": 11625,
             "topics": [
               "book",
               "dataviz",
@@ -363,11 +363,11 @@
                 "id": 1385122,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-10-15T02:09:03Z",
-                "open_issues": 1492,
+                "last_commit": "2026-10-16T07:19:58Z",
+                "open_issues": 1488,
                 "owner": "matplotlib",
                 "repo": "matplotlib",
-                "stars": 23370,
+                "stars": 23374,
                 "topics": [
                   "data-science",
                   "data-visualization",
@@ -641,7 +641,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T08:58:24.938Z",
+    "last_updated": "2026-10-16T08:49:38.696Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of various Matplotlib resources ",
