@@ -19,7 +19,7 @@
             "open_issues": 16,
             "owner": "matplotlib",
             "repo": "cheatsheets",
-            "stars": 7748,
+            "stars": 7749,
             "topics": [
               "cheatsheet",
               "matplotlib",
@@ -47,10 +47,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-01-04T13:29:20Z",
-            "open_issues": 18,
+            "open_issues": 19,
             "owner": "rougier",
             "repo": "scientific-visualization-book",
-            "stars": 11644,
+            "stars": 11647,
             "topics": [
               "book",
               "dataviz",
@@ -86,7 +86,7 @@
             "open_issues": 5,
             "owner": "matplotlib",
             "repo": "AnatomyOfMatplotlib",
-            "stars": 1244,
+            "stars": 1245,
             "topics": []
           },
           "first_seen": "2026-08-28T16:24:19.853Z"
@@ -124,7 +124,7 @@
             "id": 424274019,
             "language": "Jupyter Notebook",
             "license": "NOASSERTION",
-            "last_commit": "2026-04-19T10:01:18Z",
+            "last_commit": "2026-10-24T23:06:38Z",
             "open_issues": 1,
             "owner": "stefmolin",
             "repo": "python-data-viz-workshop",
@@ -364,10 +364,10 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2026-10-23T19:17:21Z",
-                "open_issues": 1475,
+                "open_issues": 1477,
                 "owner": "matplotlib",
                 "repo": "matplotlib",
-                "stars": 23386,
+                "stars": 23391,
                 "topics": [
                   "data-science",
                   "data-visualization",
@@ -484,7 +484,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-15T02:23:05Z",
-                "open_issues": 4,
+                "open_issues": 5,
                 "owner": "lmcinnes",
                 "repo": "glasbey",
                 "stars": 242,
@@ -641,7 +641,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T08:44:14.620Z",
+    "last_updated": "2026-10-25T09:00:17.105Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of various Matplotlib resources ",
