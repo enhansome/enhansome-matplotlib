@@ -26,7 +26,7 @@ TOC:
 
 ## Books
 
-* [Scientific Visualization: Python + Matplotlib by Nicolas P. Rougier](https://github.com/rougier/scientific-visualization-book) ⭐ 11,647 | 🐛 19 | 🌐 Python | 📅 2026-01-04
+* [Scientific Visualization: Python + Matplotlib by Nicolas P. Rougier](https://github.com/rougier/scientific-visualization-book) ⭐ 11,649 | 🐛 19 | 🌐 Python | 📅 2026-01-04
 * [Coding for Economists by Arthur Turrell](https://aeturrell.github.io/coding-for-economists/vis-intro.html)
 * [Python Data Science Handbook by Jake VanderPlas](https://jakevdp.github.io/PythonDataScienceHandbook/04.00-introduction-to-matplotlib.html)
 
@@ -55,7 +55,7 @@ TOC:
 
 ### Community tutorials
 
-* How to create custom hatches: [example 1](https://stackoverflow.com/questions/17285154/how-to-fill-a-polygon-with-a-custom-hatch-in-matplotlib) [example 2](https://stackoverflow.com/questions/4745937/how-to-decrease-hatch-density-in-matplotlib?rq=1) [example 3](https://malithjayaweera.com/2020/06/matplotlib-hatch-patterns/). In future releases of Matplotlib there will be a different API to create custom hatches [see discussion](https://github.com/matplotlib/matplotlib/issues/20690) ⭐ 23,391 | 🐛 1,477 | 🌐 Python | 📅 2026-10-23
+* How to create custom hatches: [example 1](https://stackoverflow.com/questions/17285154/how-to-fill-a-polygon-with-a-custom-hatch-in-matplotlib) [example 2](https://stackoverflow.com/questions/4745937/how-to-decrease-hatch-density-in-matplotlib?rq=1) [example 3](https://malithjayaweera.com/2020/06/matplotlib-hatch-patterns/). In future releases of Matplotlib there will be a different API to create custom hatches [see discussion](https://github.com/matplotlib/matplotlib/issues/20690) ⭐ 23,394 | 🐛 1,479 | 🌐 Python | 📅 2026-10-23
 * [Engineering for data science - Blog](https://engineeringfordatascience.com/tags/matplotlib/)
   * [Plotting subplots in a loop](https://engineeringfordatascience.com/posts/matplotlib_subplots/)
   * [Using plt.suptitle](https://engineeringfordatascience.com/posts/matplotlib_subtitles/)
@@ -100,7 +100,7 @@ TOC:
 
 ## Resources using the plt-API, but still useful
 
-* [Matplotlib 3.0 Cookbook by Srinivasa Rao Poladi](https://github.com/PacktPublishing/Matplotlib-3.0-Cookbook) ⭐ 142 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2023-01-30
+* [Matplotlib 3.0 Cookbook by Srinivasa Rao Poladi](https://github.com/PacktPublishing/Matplotlib-3.0-Cookbook) ⭐ 144 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2023-01-30
 * [Advanced MPL with interactivity](https://github.com/jakevdp/matplotlib_pydata2013/tree/master) ⭐ 57 | 🐛 0 | 🌐 Python | 📅 2013-11-12 - 2013 tutorials by Jake Vanderplas
 * [Matplot GIF on Calmcode](https://calmcode.io/matplot-gif/introduction.html)
 * [Python Graph Gallery](https://www.python-graph-gallery.com/) - a treasure of visualizations, but unfortunately the APIs used are not consistent
@@ -139,4 +139,4 @@ TOC:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-26._

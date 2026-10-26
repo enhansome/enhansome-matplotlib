@@ -50,7 +50,7 @@
             "open_issues": 19,
             "owner": "rougier",
             "repo": "scientific-visualization-book",
-            "stars": 11647,
+            "stars": 11649,
             "topics": [
               "book",
               "dataviz",
@@ -364,10 +364,10 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2026-10-23T19:17:21Z",
-                "open_issues": 1477,
+                "open_issues": 1479,
                 "owner": "matplotlib",
                 "repo": "matplotlib",
-                "stars": 23391,
+                "stars": 23394,
                 "topics": [
                   "data-science",
                   "data-visualization",
@@ -437,7 +437,7 @@
             "open_issues": 1,
             "owner": "PacktPublishing",
             "repo": "Matplotlib-3.0-Cookbook",
-            "stars": 142,
+            "stars": 144,
             "topics": []
           },
           "first_seen": "2026-08-28T16:24:19.853Z"
@@ -641,7 +641,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T09:00:17.105Z",
+    "last_updated": "2026-10-26T09:53:08.846Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of various Matplotlib resources ",
