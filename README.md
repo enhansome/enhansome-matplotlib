@@ -55,7 +55,7 @@ TOC:
 
 ### Community tutorials
 
-* How to create custom hatches: [example 1](https://stackoverflow.com/questions/17285154/how-to-fill-a-polygon-with-a-custom-hatch-in-matplotlib) [example 2](https://stackoverflow.com/questions/4745937/how-to-decrease-hatch-density-in-matplotlib?rq=1) [example 3](https://malithjayaweera.com/2020/06/matplotlib-hatch-patterns/). In future releases of Matplotlib there will be a different API to create custom hatches [see discussion](https://github.com/matplotlib/matplotlib/issues/20690) ⭐ 23,454 | 🐛 1,474 | 🌐 Python | 📅 2026-11-12
+* How to create custom hatches: [example 1](https://stackoverflow.com/questions/17285154/how-to-fill-a-polygon-with-a-custom-hatch-in-matplotlib) [example 2](https://stackoverflow.com/questions/4745937/how-to-decrease-hatch-density-in-matplotlib?rq=1) [example 3](https://malithjayaweera.com/2020/06/matplotlib-hatch-patterns/). In future releases of Matplotlib there will be a different API to create custom hatches [see discussion](https://github.com/matplotlib/matplotlib/issues/20690) ⭐ 23,456 | 🐛 1,474 | 🌐 Python | 📅 2026-11-14
 * [Engineering for data science - Blog](https://engineeringfordatascience.com/tags/matplotlib/)
   * [Plotting subplots in a loop](https://engineeringfordatascience.com/posts/matplotlib_subplots/)
   * [Using plt.suptitle](https://engineeringfordatascience.com/posts/matplotlib_subtitles/)
@@ -121,7 +121,7 @@ TOC:
 
 ## Colors
 
-* [glasbey](https://github.com/lmcinnes/glasbey) ⭐ 244 | 🐛 4 | 🌐 Python | 📅 2026-11-12 - Algorithmically create or extend categorical colour palettes
+* [glasbey](https://github.com/lmcinnes/glasbey) ⭐ 245 | 🐛 4 | 🌐 Python | 📅 2026-11-12 - Algorithmically create or extend categorical colour palettes
 * [tastymap](https://github.com/ahuang11/tastymap) ⭐ 32 | 🐛 4 | 🌐 Python | 📅 2024-10-19 - Easily create, modify and register cmaps, including an interactive widget
 
 ## Fun
@@ -139,4 +139,4 @@ TOC:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
